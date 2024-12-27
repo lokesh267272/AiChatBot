@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "118245057402",
+    "project_id": "vertex-a-i-gemini-dynam-1zmn51",
+    "storage_bucket": "vertex-a-i-gemini-dynam-1zmn51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118245057402:android:8c4aa3ad370738a3a66cc3",
+        "android_client_info": {
+          "package_name": "com.flutterflow.vertexaigeminidemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGB3znhh1x37PkqjdcZAzxYigEKQ2q_Bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
