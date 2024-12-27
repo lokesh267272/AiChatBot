@@ -5,7 +5,7 @@ Future initFirebase() async {
   if (kIsWeb) {
     await Firebase.initializeApp(
         options: const FirebaseOptions(
-            apiKey: "AIzaSyDwrvrfvbrbNaJGUu6OCqtFMNxbiR8onv0",
+            apiKey: "",
             authDomain: "vertex-a-i-gemini-dynam-1zmn51.firebaseapp.com",
             projectId: "vertex-a-i-gemini-dynam-1zmn51",
             storageBucket: "vertex-a-i-gemini-dynam-1zmn51.appspot.com",
